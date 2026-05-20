@@ -1,1 +1,2 @@
-чё делать то надо?
+slozhno-sosredotochitsya
+Проект "Сложно сосредоточиться" https://github.com/Lchii/slozhno-sosredotochitsya.git
